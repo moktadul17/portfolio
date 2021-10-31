@@ -1,0 +1,49 @@
+.about-section-content{
+	padding-top: 20px;
+}
+.dev-job{
+	padding-bottom: 10px;
+}
+.dev-highlight{
+	color: #2c3e50;
+	font-size: 22px;
+	font-weight: 700;
+}
+.dev-address{
+	padding-top: 25px;
+}
+.address-heading{
+	font-size: 18px;
+	font-weight: 700;
+}
+
+/*======= about section start ===========*/
+.dev-image{
+	width: 300px;
+}
+.dev-image img{
+	width: 100%;
+}
+
+
+/*======services section start======*/
+.all-services{
+	padding-top: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+.service-icon{
+	font-size: 40px;
+}
+.service-title{
+	padding-top: 20px;
+}
+.service-item{
+	padding: 10px;
+	margin: 0 -10px;
+	border: 1px solid #dedede;
+	border-radius: 8px;
+}
+.service-item:hover{
+	background-color: #1abc9c;
+}
